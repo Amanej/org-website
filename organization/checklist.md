@@ -1,48 +1,46 @@
-# Checklist for inviting speaker
+# Sjekkliste for å invitere en taler
 
-0. Coordinate who you plan on inviting in the [#planning][0] channel on Discord.
-0. Reach out to the potential speaker(s).
-0. Update [#planning][0] on any changes (confirmation / decline)
-0. If speaker confirmed setup Meetup event stub text.
-0. Find a backup speaker / topic in the unlikely case there is last minute issues.
-0. Ask speaker(s) for photo in the following dimension (1200x675 pixels to be used for meetup featuring.
-0. Polish the Meetup text.
-0. Tweet / Post it on the internet.
-0. Again remember to keep [#planning][0] channel up to date.
-0. Get to the venue early if possible
-0. Review this document and polish it :wink:
+1. Koordiner hvem du planlegger å invitere i [#planning][0] kanal på Discord.
+2. Nå ut til potensiell en taler.
+3. Oppdater [#planning][0] om alle endringer (bekreftelse / avslag)
+4. Hvis taleren bekreftes så set opp Meetup arrangement teksten.
+5. Finn et backup taler / tema i tlfelle det oppstår et problem i siste øyeblikk.
+6. Spør taleren/talerne om et bilde i følgende dimensjoner (1200x675px) til Meetup bildet.
+7. Poler Meetup teksten.
+8. Tweet / Post om det på internett.
+9. Igjen, husk å holde [#planning][0] kanalen oppdatert.
+10. Kom til stedet tidlig hvis det er mulig
+11. Revider og forbedre dette dokumentet over tid :wink:
 
-Meetup text template below
+Meetup tekst template nedenfor
 
 ---
 
 ```
-<insert greeting here>
+<insert hilsen>
 
-<tell attendee about JAMstack and what they can expect>
+<fortell publikum om JAMstack og hva de kan forvente>
 
 # Program
 
-<oneliner on the topic for today and who is presenting>
+<oneliner om temaet for dagen og hvem som presenterer>
 
-Title: <insert talk title her>
+Tittel: <insert talens tittel her>
 
-Description: <insert description here>
+Beskrivelse: <insert beskrivelse her>
 
 Bio: <write about the speaker(s) here>
 
-# Practicalities
+# Praktisk informasjon
 
-Sanity.io is located in Grünerløkka not far from downtown Oslo. You can easily
-get there by trams 11 / 12 / 13. If you arrive by tram the stop is Olaf Ryes
-plass from where you have a few minutes walk to the Sanity entrance. The
-entrance is right next to Godt brød and very visible. Look for a yellow
-building or use Google Maps: https://goo.gl/maps/BuuYvnW4AnF2.
+Sanity.io holder til på Grünerløkka ikke så langt unna downtown Oslo. Du kan enkelt komme ditt med trukkene  11 / 12 / 13. Hvis du kommer med trikken så er det Olaf Ryes
+plass du går av på, før du kan gå til  Sanity inngangen. Inngangen er rett ved Godt brød og er veldig synlig. Se etter en gul
+bygning med Sanity i sort skrift eller bruk Google Maps: https://goo.gl/maps/BuuYvnW4AnF2.
 
-If you have any issues reaching the venue or questions, feel free to call
-Alexander on +47 401 04 387.
+Hvis du har noen problemer med å komme fram til stedet eller har noen spørsmål, så ring gjerne 
+Alexander på +47 401 04 387.
 
-See you soon!
+Sees snart!
 ```
 
 [0]: https://discord.gg/rE3pcSw

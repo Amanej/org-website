@@ -1,32 +1,32 @@
-# Introduction and conclusion
+# Introduksjon og konklusjon
 
-## Checklist for intro
+## Sjekkliste for introduksjon
 
-0. A few few minutes before starting  
-   0.0. Smile and find the mic  
-   0.1. Ask people to find their seats
-0. Practical information  
-   1.0 Welcome the attendees  
-   1.1 Introduce yourself briefly  
-   1.2 Show the Emergency exit  
-   1.2 Communicate the Agenda
-0. What is JAMstack Oslo  
-   2.0 Encourage people to contribute to the Meetup organization  
-   2.1 Mention the Discord server
-0. Credits  
-   3.0 Venue host  
-   3.1 Food / beverage sponsor  
-   3.2 Stream team  
-0. Remote viewers   
-   4.0 Great the chat   
-   4.1 Encourage them to be interactive  
-0. Mute mic and give it to the next speaker  
+0. Et par minutter før det starter  
+   0.0. Smil og finn mikrofonen  
+   0.1. Be folk pent finne seg en plass
+0. Praktisk informasjon  
+   1.0 Si velkommen til deltagerne  
+   1.1 Kort introduser deg selv  
+   1.2 Forklaring hvor nødutgangen er  
+   1.2 Kommuniser agendaen (for dagen ?) 
+0. Hva er JAMstack Oslo ?  
+   2.0 Oppmuntre mennesker til å bidra til Meetup organisasjonen  
+   2.1 Informer om Discord serveren
+0. Takke sponsorer og frivillige
+   3.0 Verten (Lokalet)
+   3.1 Mat & drikke sponsorer  
+   3.2 Streaming teamet  
+0. Digitale gjester   
+   4.0 Hils chattten   
+   4.1 Oppfordre de til å være interaktive   
+0. Mute mikrofonen og gi den til den neste taleren  
 
-## Checklist for outro
+## Sjekkliste for outro
 
-0. Credits  
-   0.0 Thank attendees  
-   0.1 Thank speaker(s)  
-   0.2 Thank remote viewers  
-   0.3 Thank venue host and video team  
-0. If food left over ask for help in eating
+0. Endelig takketale
+   0.0 Takk deltagerne  
+   0.1 Takk taleren  
+   0.2 Takk de digitale gjestene  
+   0.3 Takk verten og streaming teamet  
+0. Hvis det er mat til overs, be om hjelp til å spise det opp. :)
