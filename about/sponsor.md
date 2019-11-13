@@ -1,15 +1,11 @@
-# Sponsor & Support
+# Sponsorer & Støtte
 
-We welcome any kind of support from the community. The Meetup is volunteer driven so there are many
-ways to help out. This could be on the organization side of things, or accomodating speakers who have
-to travel via a budget for the travel cost / lodging. If this sounds interesting, please [reach out][c].
+Vi tar gledelig imot all støtte fra miljøet. Meetupen er frivillig drevet så det er many måter å hjelpe på. Det kan være å organisere, legge ut for reisebudsjetter til talere osv. Hvis dette høres interessant ut, så ta vennligst [ta kontakt ][c] her.
 
-Fortunately thanks to the kind people at [Sanity][4] lending us their venue, we don't have high
-operational cost, but if you would like to provide catering or sponsor a social
-evening, we might be interested. Also If you have some swag like t-shirts,
-books, etc. you want to give attendees, [tell us][c] about it.
+En stor takk til de hygggelige folka hos [Sanity][4] som låner oss deres arena, vi har ikke noen store utgifter, men om dere ønsker å skaffe catering eller sponse ett sosialt arrangement så kan det være interessant. Hvis du har noe swag som f.eks t-skjorter, bøker osv som du ønsker å dele ut så gi  [gjerne beskjed][c] om det.
 
-## Sponsors
+
+## Sponsorer
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; padding: 1rem 0px;">
     <a href="https://fortress.no">

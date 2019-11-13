@@ -1,11 +1,8 @@
-# Speaking
+# Talere
 
-We are actively looking for speakers. If you are interested in speaking, please
-reach out via [Discord][d], [Meetup][m] or on email to [Alexander][a].
+Vi leter aktivt etter talere. Hvis du er interessert i å tale, så kan du vennligst ta kontakt via  [Discord][d], [Meetup][m] eller på epost til [Alexander][a].
 
-If you have suggestions for topics or people who we should invite, please
-share them with us. If you want to invite someone, [Discord][d] is the place
-to coordinate.
+Hvis du har forslag for emner eller mennesker som vi bør invitere, vennligst si ifra. Hvis du vil invitere så er [Discord][d] stedet for å ta det opp.
 
 [d]: https://discord.gg/rE3pcSw
 [m]: https://www.meetup.com/de-DE/JAMstack-Oslo/
