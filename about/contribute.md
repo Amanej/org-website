@@ -1,13 +1,9 @@
-# Contribute
+# Bidra
 
-We are very happy that you are interested in contributing and welcome you :smile:
+Vi er veldig glad for at du er interessert i å bidra og velkommen skal du være :smile:
 
-JAMstack Oslo is run on a volunteer basis so we are dependent on volunteers to
-get things done. We are actively seeking new people to join the organization
-team.
+JAMstack Oslo er drevet på frivillig basis so vi er avhengig av frivillige for å få ting gjort. Vi søker aktivt etter mennesker som ønsker å bli med i teamet som organiserer treffet. 
 
-If you can't commit longterm there are also other places we need help
-[You could speak](/events/speaking.html), [fix typos / broken links on this site](https://github.com/JAMstack-Oslo/org-website) or
-make waffles :)
+Hvis du ikke kan forplikte deg på lang sikt, så er kan du bidra ved å [holde en presentasjon](/events/speaking.html), [fikse skrivefeil / brukne lenker på denne siden](https://github.com/JAMstack-Oslo/org-website) eller lage vafler :)
 
-Please reach out via one of the preferred ways listed on the [contact page](/about/contact.html).
+Vennligst ta kontakt via en av de ønskede måtene på [kontakt siden](/about/kontakt.html).

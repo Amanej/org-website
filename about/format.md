@@ -1,5 +1,11 @@
 # Format
 
-Our main event is monthly talk(s) on the last tuesday. Nothing is set in stone and the
-community can shape the events. If you would like to do a lightning talk, host
-a social gathering, [join us](/about/contact.html).
+Hovedarrangementet vårt er månedlige presentasjon(er) den siste tirsdagen i måneden. Ingenting er fast best og miljøet kan sette opp egne arrangementer. 
+
+Hvis du har lyst til å:
+* Holde en lighting talk (kort presentasjon)
+* Arrangere et sosialt arrangement
+* Andre ideer
+
+Så er det bare å [bli med oss](/about/contact.html).
+
