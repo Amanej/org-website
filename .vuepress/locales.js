@@ -4,6 +4,7 @@ module.exports = {
         title: 'JAMstack Oslo',
         description: 'Notater rundt organiseringen og planleggingen av Oslo kapitlet til JAMstack',
         nav: [
+            { text: "In english", link: "/eng/" },
             { text: "Meetup", link: "https://www.meetup.com/JAMstack-Oslo/" },
             { text: "Discord", link: "https://discord.gg/rE3pcSw" },
             { text: "GitHub", link: "https://github.com/JAMstack-Oslo/org-website" }
@@ -27,7 +28,7 @@ module.exports = {
                 "arrangementer/kommende.md",
                 "arrangementer/talere.md",
                 "arrangementer/tidligere.md",
-                "om/tilbakemeldinger.md"
+                "om/feedback.md"
               ]
             },
             {
@@ -55,6 +56,7 @@ module.exports = {
         title: 'JAMstack Oslo',
         description: 'Notes on the organization and planning of JAMstack Oslo chapter',
         nav: [
+            { text: "På norsk", link: "/" },
             { text: "Meetup", link: "https://www.meetup.com/JAMstack-Oslo/" },
             { text: "Discord", link: "https://discord.gg/rE3pcSw" },
             { text: "GitHub", link: "https://github.com/JAMstack-Oslo/org-website" }
